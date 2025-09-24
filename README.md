@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="AFRIBENKI - Empowering Africa's Financial Growth" height="80">
+</p>
+
 🚀 AfriBenki: Your Friendly AI Buddy for Saving and Investing in Africa!
-Failed to load imageView link 
 AfriBenki is like a smart friend in your pocket! It helps people in Africa save money and grow it by chatting on WhatsApp or Telegram. No hard apps or big words—just fun talks to reach your dreams, like buying a bike or going to school.
 
 How it Works
